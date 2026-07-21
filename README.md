@@ -1,14 +1,15 @@
-# meu repositório de autenticação 
+# Meu Repositorio de Estudos - Git e Github
 
+## Objetivo da Aula:
 
+1. Criar um repositorio local e adiciona-lo ao nosso GitHub - remoto; []
 
-Repositório de testes de Autenticação.
+2. Clonar um repositorio remoto para o nosso computador local; []
 
+3. Fazer alteração >> adicionar | commitar | enviar arquivos; []
 
+4. Criar nova Branch; []
 
-autenticando via token
+5. Realizar um Pull reequest e Merge; []
 
-
-
-ssh
-
+6. Criar nosso Primeiro Fork; []
